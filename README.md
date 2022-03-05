@@ -1,2 +1,2 @@
-# MIPS_assembly
+# MIPS
  coe 501 - computer architecture
